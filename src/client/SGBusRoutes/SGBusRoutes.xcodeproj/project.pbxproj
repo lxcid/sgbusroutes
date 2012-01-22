@@ -1,0 +1,322 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AB8EEAEF14CC03A100EE57F1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8EEAEE14CC03A100EE57F1 /* UIKit.framework */; };
+		AB8EEAF114CC03A100EE57F1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8EEAF014CC03A100EE57F1 /* Foundation.framework */; };
+		AB8EEAF314CC03A100EE57F1 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8EEAF214CC03A100EE57F1 /* CoreGraphics.framework */; };
+		AB8EEAF914CC03A100EE57F1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AB8EEAF714CC03A100EE57F1 /* InfoPlist.strings */; };
+		AB8EEAFB14CC03A100EE57F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8EEAFA14CC03A100EE57F1 /* main.m */; };
+		AB8EEAFF14CC03A100EE57F1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8EEAFE14CC03A100EE57F1 /* AppDelegate.m */; };
+		AB8EEB0B14CC062500EE57F1 /* KMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8EEB0814CC062500EE57F1 /* KMLParser.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		AB8EEB0C14CC062500EE57F1 /* KMLViewerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8EEB0A14CC062500EE57F1 /* KMLViewerViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		AB8EEB0E14CC066500EE57F1 /* kml in Resources */ = {isa = PBXBuildFile; fileRef = AB8EEB0D14CC066500EE57F1 /* kml */; };
+		AB8EEB1114CC06AA00EE57F1 /* KMLTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8EEB1014CC06A900EE57F1 /* KMLTableViewController.m */; };
+		AB8EEB1314CC07E500EE57F1 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8EEB1214CC07E500EE57F1 /* MapKit.framework */; };
+		AB8EEB1514CC07F600EE57F1 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB8EEB1414CC07F600EE57F1 /* CoreLocation.framework */; };
+		AB8EEB1814CC0B9700EE57F1 /* KMLViewerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB8EEB1614CC0B9700EE57F1 /* KMLViewerViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AB8EEAEA14CC03A100EE57F1 /* SGBusRoutes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SGBusRoutes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB8EEAEE14CC03A100EE57F1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		AB8EEAF014CC03A100EE57F1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AB8EEAF214CC03A100EE57F1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		AB8EEAF614CC03A100EE57F1 /* SGBusRoutes-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SGBusRoutes-Info.plist"; sourceTree = "<group>"; };
+		AB8EEAF814CC03A100EE57F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		AB8EEAFA14CC03A100EE57F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AB8EEAFC14CC03A100EE57F1 /* SGBusRoutes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SGBusRoutes-Prefix.pch"; sourceTree = "<group>"; };
+		AB8EEAFD14CC03A100EE57F1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AB8EEAFE14CC03A100EE57F1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AB8EEB0714CC062500EE57F1 /* KMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KMLParser.h; path = ../../Vendors/KMLViewer/Classes/KMLParser.h; sourceTree = "<group>"; };
+		AB8EEB0814CC062500EE57F1 /* KMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KMLParser.m; path = ../../Vendors/KMLViewer/Classes/KMLParser.m; sourceTree = "<group>"; };
+		AB8EEB0914CC062500EE57F1 /* KMLViewerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KMLViewerViewController.h; path = ../../Vendors/KMLViewer/Classes/KMLViewerViewController.h; sourceTree = "<group>"; };
+		AB8EEB0A14CC062500EE57F1 /* KMLViewerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KMLViewerViewController.m; path = ../../Vendors/KMLViewer/Classes/KMLViewerViewController.m; sourceTree = "<group>"; };
+		AB8EEB0D14CC066500EE57F1 /* kml */ = {isa = PBXFileReference; lastKnownFileType = folder; name = kml; path = ../../../server/kml; sourceTree = "<group>"; };
+		AB8EEB0F14CC06A900EE57F1 /* KMLTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KMLTableViewController.h; sourceTree = "<group>"; };
+		AB8EEB1014CC06A900EE57F1 /* KMLTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KMLTableViewController.m; sourceTree = "<group>"; };
+		AB8EEB1214CC07E500EE57F1 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		AB8EEB1414CC07F600EE57F1 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		AB8EEB1714CC0B9700EE57F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = ../../Vendors/KMLViewer/en.lproj/KMLViewerViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB8EEAE714CC03A100EE57F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB8EEB1514CC07F600EE57F1 /* CoreLocation.framework in Frameworks */,
+				AB8EEB1314CC07E500EE57F1 /* MapKit.framework in Frameworks */,
+				AB8EEAEF14CC03A100EE57F1 /* UIKit.framework in Frameworks */,
+				AB8EEAF114CC03A100EE57F1 /* Foundation.framework in Frameworks */,
+				AB8EEAF314CC03A100EE57F1 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AB8EEADF14CC03A000EE57F1 = {
+			isa = PBXGroup;
+			children = (
+				AB8EEAF414CC03A100EE57F1 /* SGBusRoutes */,
+				AB8EEAED14CC03A100EE57F1 /* Frameworks */,
+				AB8EEAEB14CC03A100EE57F1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AB8EEAEB14CC03A100EE57F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEAEA14CC03A100EE57F1 /* SGBusRoutes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AB8EEAED14CC03A100EE57F1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEB1414CC07F600EE57F1 /* CoreLocation.framework */,
+				AB8EEB1214CC07E500EE57F1 /* MapKit.framework */,
+				AB8EEAEE14CC03A100EE57F1 /* UIKit.framework */,
+				AB8EEAF014CC03A100EE57F1 /* Foundation.framework */,
+				AB8EEAF214CC03A100EE57F1 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AB8EEAF414CC03A100EE57F1 /* SGBusRoutes */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEB0D14CC066500EE57F1 /* kml */,
+				AB8EEB0514CC03AE00EE57F1 /* Vendors */,
+				AB8EEAFD14CC03A100EE57F1 /* AppDelegate.h */,
+				AB8EEAFE14CC03A100EE57F1 /* AppDelegate.m */,
+				AB8EEB0F14CC06A900EE57F1 /* KMLTableViewController.h */,
+				AB8EEB1014CC06A900EE57F1 /* KMLTableViewController.m */,
+				AB8EEAF514CC03A100EE57F1 /* Supporting Files */,
+			);
+			path = SGBusRoutes;
+			sourceTree = "<group>";
+		};
+		AB8EEAF514CC03A100EE57F1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEAF614CC03A100EE57F1 /* SGBusRoutes-Info.plist */,
+				AB8EEAF714CC03A100EE57F1 /* InfoPlist.strings */,
+				AB8EEAFA14CC03A100EE57F1 /* main.m */,
+				AB8EEAFC14CC03A100EE57F1 /* SGBusRoutes-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AB8EEB0514CC03AE00EE57F1 /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEB0614CC061700EE57F1 /* KMLViewer */,
+			);
+			name = Vendors;
+			sourceTree = "<group>";
+		};
+		AB8EEB0614CC061700EE57F1 /* KMLViewer */ = {
+			isa = PBXGroup;
+			children = (
+				AB8EEB0714CC062500EE57F1 /* KMLParser.h */,
+				AB8EEB0814CC062500EE57F1 /* KMLParser.m */,
+				AB8EEB0914CC062500EE57F1 /* KMLViewerViewController.h */,
+				AB8EEB0A14CC062500EE57F1 /* KMLViewerViewController.m */,
+				AB8EEB1614CC0B9700EE57F1 /* KMLViewerViewController.xib */,
+			);
+			name = KMLViewer;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB8EEAE914CC03A100EE57F1 /* SGBusRoutes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB8EEB0214CC03A100EE57F1 /* Build configuration list for PBXNativeTarget "SGBusRoutes" */;
+			buildPhases = (
+				AB8EEAE614CC03A100EE57F1 /* Sources */,
+				AB8EEAE714CC03A100EE57F1 /* Frameworks */,
+				AB8EEAE814CC03A100EE57F1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SGBusRoutes;
+			productName = SGBusRoutes;
+			productReference = AB8EEAEA14CC03A100EE57F1 /* SGBusRoutes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB8EEAE114CC03A000EE57F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "d--buzz";
+			};
+			buildConfigurationList = AB8EEAE414CC03A000EE57F1 /* Build configuration list for PBXProject "SGBusRoutes" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AB8EEADF14CC03A000EE57F1;
+			productRefGroup = AB8EEAEB14CC03A100EE57F1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB8EEAE914CC03A100EE57F1 /* SGBusRoutes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB8EEAE814CC03A100EE57F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB8EEAF914CC03A100EE57F1 /* InfoPlist.strings in Resources */,
+				AB8EEB0E14CC066500EE57F1 /* kml in Resources */,
+				AB8EEB1814CC0B9700EE57F1 /* KMLViewerViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB8EEAE614CC03A100EE57F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB8EEAFB14CC03A100EE57F1 /* main.m in Sources */,
+				AB8EEAFF14CC03A100EE57F1 /* AppDelegate.m in Sources */,
+				AB8EEB0B14CC062500EE57F1 /* KMLParser.m in Sources */,
+				AB8EEB0C14CC062500EE57F1 /* KMLViewerViewController.m in Sources */,
+				AB8EEB1114CC06AA00EE57F1 /* KMLTableViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AB8EEAF714CC03A100EE57F1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB8EEAF814CC03A100EE57F1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		AB8EEB1614CC0B9700EE57F1 /* KMLViewerViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB8EEB1714CC0B9700EE57F1 /* en */,
+			);
+			name = KMLViewerViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AB8EEB0014CC03A100EE57F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		AB8EEB0114CC03A100EE57F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AB8EEB0314CC03A100EE57F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SGBusRoutes/SGBusRoutes-Prefix.pch";
+				INFOPLIST_FILE = "SGBusRoutes/SGBusRoutes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		AB8EEB0414CC03A100EE57F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SGBusRoutes/SGBusRoutes-Prefix.pch";
+				INFOPLIST_FILE = "SGBusRoutes/SGBusRoutes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB8EEAE414CC03A000EE57F1 /* Build configuration list for PBXProject "SGBusRoutes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB8EEB0014CC03A100EE57F1 /* Debug */,
+				AB8EEB0114CC03A100EE57F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB8EEB0214CC03A100EE57F1 /* Build configuration list for PBXNativeTarget "SGBusRoutes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB8EEB0314CC03A100EE57F1 /* Debug */,
+				AB8EEB0414CC03A100EE57F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB8EEAE114CC03A000EE57F1 /* Project object */;
+}
