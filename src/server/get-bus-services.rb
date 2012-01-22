@@ -18,7 +18,7 @@ Nokogiri::HTML(open("http://publictransport.sg/content/publictransport/en/homepa
       next
     end
     direction = split_values[1]
-    bus = { "number" => bus_number, "direction" => direction }
+    bus = { "number" => bus_number, "direction" => direction.to_i }
     #puts "\tBus: #{bus_number} (#{direction})"
     buses << bus
   end
