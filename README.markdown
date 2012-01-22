@@ -12,13 +12,12 @@ Once you run the data generation component, you can run the client component and
 ## The rationale (Why another project?): ##
 
  * I am a rubyist and I don't want to install node.js. (Don't feel like installing due to some pass horror with compiling it.)
- * The solution cheeaun proposed are custom json format. I wanted a KML format similar to the bus routes from http://publictransport.sg/.
+ * The solution Cheeaun proposed are custom json format. I wanted a KML format similar to the bus routes from http://publictransport.sg/.
  * I want to feed this to the KMLViewer from Apple's sample project. (In hackish mode so didn't want to write a parser for Cheeaun's data structure, although it won't be hard)
 
 ## Limitation: ##
 
- * The final data structure by Cheeaun is superior than the one provided here. (Although you can reconstruct back the data structure by modifying the merge-bus-routes-with-bus-stops.rb a bit.)
- * I do not differentiate between the different bus routes (route 1 and sometimes route 2) in the final output format, KML. (I don't know if KML can do that or not though)
+ * Final format not pars-able. (Although I can spend some time updating the data structure)
  * I have very limited knowledge of KML so implementation might be hackish.
  * No shebang. :P
 
@@ -32,5 +31,5 @@ Once you run the data generation component, you can run the client component and
     ruby get-bus-routes.rb
     # 3. Get bus stops (Dependent on 1)
     ruby get-bus-stops.rb
-    # 4. Merge bus routes and bus stops into a KML file.
+    # 4. Merge bus routes and bus stops into a KML file. (Dependent on 2 and 3)
     ruby merge-bus-routes-with-bus-stops.rb

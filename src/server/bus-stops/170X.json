@@ -8,9 +8,9 @@
         "latlng": "103.761037704494,1.42513583961223"
       },
       {
-        "name": "Kotaraya II Ter",
-        "code": "46609",
-        "latlng": "103.749661249284,1.47350964652875"
+        "name": "Opp Woodlands Fire Stn",
+        "code": "46021",
+        "latlng": "103.761751389012,1.42919861102976"
       },
       {
         "name": "Aft Woodlands Ind Pk D",
@@ -18,9 +18,9 @@
         "latlng": "103.761923154851,1.43355629264151"
       },
       {
-        "name": "Woodlands Checkpt",
-        "code": "46109",
-        "latlng": "103.769253425179,1.44694093553877"
+        "name": "Opp Sri Arasakesari Tp",
+        "code": "46041",
+        "latlng": "103.76405579625,1.43664137009072"
       },
       {
         "name": "Opp Chartered Semi-C Bldg",
@@ -28,9 +28,9 @@
         "latlng": "103.766408881813,1.43897086088267"
       },
       {
-        "name": "Bef Sri Arasakesari Tp",
-        "code": "46049",
-        "latlng": "103.764606588758,1.43689983237554"
+        "name": "Woodlands Checkpt",
+        "code": "46101",
+        "latlng": "103.76774882217,1.44460832436552"
       },
       {
         "name": "Johor Bahru Checkpt",
@@ -38,9 +38,9 @@
         "latlng": "103.76785998672,1.45684407363362"
       },
       {
-        "name": "Aft Woodlands Fire Stn",
-        "code": "46029",
-        "latlng": "103.762266434307,1.42861423605201"
+        "name": "JB Sentral",
+        "code": "47701",
+        "latlng": "103.755092233318,1.48108916602117"
       },
       {
         "name": "Kotaraya II Ter",
@@ -50,9 +50,9 @@
     ],
     [
       {
-        "name": "Opp Woodlands Fire Stn",
-        "code": "46021",
-        "latlng": "103.761751389012,1.42919861102976"
+        "name": "Kotaraya II Ter",
+        "code": "46609",
+        "latlng": "103.749661249284,1.47350964652875"
       },
       {
         "name": "Johor Bahru Checkpt",
@@ -60,9 +60,9 @@
         "latlng": "103.767591186826,1.45667140142018"
       },
       {
-        "name": "Opp Sri Arasakesari Tp",
-        "code": "46041",
-        "latlng": "103.76405579625,1.43664137009072"
+        "name": "Woodlands Checkpt",
+        "code": "46109",
+        "latlng": "103.769253425179,1.44694093553877"
       },
       {
         "name": "Chartered Semi-C Bldg",
@@ -70,9 +70,9 @@
         "latlng": "103.766564720796,1.43875378001358"
       },
       {
-        "name": "Woodlands Checkpt",
-        "code": "46101",
-        "latlng": "103.76774882217,1.44460832436552"
+        "name": "Bef Sri Arasakesari Tp",
+        "code": "46049",
+        "latlng": "103.764606588758,1.43689983237554"
       },
       {
         "name": "Bef Woodlands Ind Pk D",
@@ -80,9 +80,9 @@
         "latlng": "103.762001806169,1.4330873187746"
       },
       {
-        "name": "JB Sentral",
-        "code": "47701",
-        "latlng": "103.755092233318,1.48108916602117"
+        "name": "Aft Woodlands Fire Stn",
+        "code": "46029",
+        "latlng": "103.762266434307,1.42861423605201"
       },
       {
         "name": "Kranji Stn",
