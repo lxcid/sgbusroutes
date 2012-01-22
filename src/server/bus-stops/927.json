@@ -1,0 +1,187 @@
+{
+  "number": "927",
+  "direction": [
+    [
+      {
+        "name": "Choa Chu Kang Int",
+        "code": "44009",
+        "latlng": "103.7440758375,1.38551052071355"
+      },
+      {
+        "name": "Lot 1 Shoppers' Mall",
+        "code": "44539",
+        "latlng": "103.745023879458,1.384630783374"
+      },
+      {
+        "name": "Northvale Condo",
+        "code": "44541",
+        "latlng": "103.745935277981,1.38764444400114"
+      },
+      {
+        "name": "Aft Yew Tee Flyover",
+        "code": "45011",
+        "latlng": "103.754623581445,1.38969249598729"
+      },
+      {
+        "name": "Heavy Veh Pk",
+        "code": "45021",
+        "latlng": "103.753835833003,1.39385694401913"
+      },
+      {
+        "name": "Yew Tee Ind Est",
+        "code": "45031",
+        "latlng": "103.754173479164,1.39616699222665"
+      },
+      {
+        "name": "Thong Huat Bros Pte Ltd",
+        "code": "45041",
+        "latlng": "103.755452152442,1.40005833889686"
+      },
+      {
+        "name": "Digiland",
+        "code": "45051",
+        "latlng": "103.756008207032,1.40329675344281"
+      },
+      {
+        "name": "Opp Mandai Est",
+        "code": "45061",
+        "latlng": "103.756063001261,1.40718111138319"
+      },
+      {
+        "name": "Bef Mandai Rd",
+        "code": "45071",
+        "latlng": "103.755783055992,1.409064166988"
+      },
+      {
+        "name": "Aft Woodlands Rd",
+        "code": "45221",
+        "latlng": "103.757860555972,1.41185472198057"
+      },
+      {
+        "name": "Opp Mandai CD Trg Village",
+        "code": "45181",
+        "latlng": "103.761269948481,1.41163371805021"
+      },
+      {
+        "name": "Opp Mandai Police Trg Camp",
+        "code": "45191",
+        "latlng": "103.763484591791,1.41064903489983"
+      },
+      {
+        "name": "Opp Police Tactical Trg Camp",
+        "code": "45201",
+        "latlng": "103.765824037547,1.4104725327184"
+      },
+      {
+        "name": "Bef BKE",
+        "code": "45211",
+        "latlng": "103.769788167952,1.41031981199294"
+      },
+      {
+        "name": "Opp Mandai Camp 2",
+        "code": "48011",
+        "latlng": "103.774494023039,1.41053605692501"
+      },
+      {
+        "name": "Aft Mandai Rd",
+        "code": "48111",
+        "latlng": "103.779763399373,1.4093562195273"
+      },
+      {
+        "name": "Opp Mandai Orchid Gdn",
+        "code": "48121",
+        "latlng": "103.783014948409,1.40758896693298"
+      },
+      {
+        "name": "S'pore Zoological Gdns",
+        "code": "48131",
+        "latlng": "103.789569139496,1.40445709160416"
+      },
+      {
+        "name": "Mandai Orchid Gdn",
+        "code": "48129",
+        "latlng": "103.783077720768,1.4074191713899"
+      },
+      {
+        "name": "Bef Mandai Rd",
+        "code": "48119",
+        "latlng": "103.779290914007,1.40961851672822"
+      },
+      {
+        "name": "Mandai Camp 2",
+        "code": "48019",
+        "latlng": "103.775472406134,1.41047890324934"
+      },
+      {
+        "name": "Police Tactical Trg Camp",
+        "code": "45209",
+        "latlng": "103.766533771026,1.40999881103268"
+      },
+      {
+        "name": "Mandai Police Trg Camp",
+        "code": "45199",
+        "latlng": "103.763224076212,1.41035479540516"
+      },
+      {
+        "name": "Mandai CD Trg Village",
+        "code": "45189",
+        "latlng": "103.760994442171,1.41134149902047"
+      },
+      {
+        "name": "Bef Woodlands Rd",
+        "code": "45229",
+        "latlng": "103.75794694402,1.41157694400295"
+      },
+      {
+        "name": "Aft Mandai Rd",
+        "code": "45079",
+        "latlng": "103.755977168488,1.40911756849496"
+      },
+      {
+        "name": "Aft Mandai Est",
+        "code": "45069",
+        "latlng": "103.75626773949,1.40693907796853"
+      },
+      {
+        "name": "Opp Digiland",
+        "code": "45059",
+        "latlng": "103.756216105158,1.40340714613073"
+      },
+      {
+        "name": "Opp Yew Tee Ind Est Blk 1",
+        "code": "45049",
+        "latlng": "103.75499277801,1.39773638898155"
+      },
+      {
+        "name": "Opp Yew Tee Ind Est",
+        "code": "45039",
+        "latlng": "103.754278162244,1.395858173556"
+      },
+      {
+        "name": "Opp Heavy Veh Pk",
+        "code": "45029",
+        "latlng": "103.754148647502,1.39303959514283"
+      },
+      {
+        "name": "Aft Yew Tee Flyover",
+        "code": "45019",
+        "latlng": "103.755578323927,1.38825159138019"
+      },
+      {
+        "name": "Opp Northvale Condo",
+        "code": "44549",
+        "latlng": "103.746189135824,1.38748720575146"
+      },
+      {
+        "name": "Opp Choa Chu Kang Stn",
+        "code": "44531",
+        "latlng": "103.744536248721,1.3842540529817"
+      },
+      {
+        "name": "Choa Chu Kang Int",
+        "code": "44009",
+        "latlng": "103.7440758375,1.38551052071355"
+      }
+    ]
+  ]
+}

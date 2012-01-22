@@ -1,0 +1,117 @@
+{
+  "number": "42",
+  "direction": [
+    [
+      {
+        "name": "Kembangan Stn",
+        "code": "83321",
+        "latlng": "103.913654337646,1.32168778524292"
+      },
+      {
+        "name": "Kg Kembangan CC",
+        "code": "83331",
+        "latlng": "103.912716558598,1.32349513640811"
+      },
+      {
+        "name": "Blk 102",
+        "code": "83341",
+        "latlng": "103.911098036431,1.32539968158138"
+      },
+      {
+        "name": "Grosvenor View",
+        "code": "83351",
+        "latlng": "103.912131111021,1.32765583299791"
+      },
+      {
+        "name": "Hua Yu Mans",
+        "code": "83361",
+        "latlng": "103.914495706562,1.32850781433023"
+      },
+      {
+        "name": "Aft Jln Paras",
+        "code": "83371",
+        "latlng": "103.915379461197,1.32624566683487"
+      },
+      {
+        "name": "Bef Jln Kembangan",
+        "code": "83381",
+        "latlng": "103.914522071827,1.32466780744457"
+      },
+      {
+        "name": "Opp Kembangan Stn",
+        "code": "83329",
+        "latlng": "103.913798332221,1.32198642679821"
+      },
+      {
+        "name": "Opp Perpetual Succour Ch",
+        "code": "83081",
+        "latlng": "103.917366158045,1.32138694231948"
+      },
+      {
+        "name": "Bef Jln Khairuddin",
+        "code": "83251",
+        "latlng": "103.921999147211,1.31923829366912"
+      },
+      {
+        "name": "Opera Est Pr Sch",
+        "code": "83261",
+        "latlng": "103.924246984781,1.319069066782"
+      },
+      {
+        "name": "Aft Swan Lake Ave",
+        "code": "83271",
+        "latlng": "103.925885435895,1.31928964158907"
+      },
+      {
+        "name": "Bef Tosca St",
+        "code": "83281",
+        "latlng": "103.92702360622,1.31963982217783"
+      },
+      {
+        "name": "Aft Carmen St",
+        "code": "83279",
+        "latlng": "103.925105308204,1.3188308339308"
+      },
+      {
+        "name": "Opp Opera Est Pr Sch",
+        "code": "83269",
+        "latlng": "103.923465013466,1.31895097253148"
+      },
+      {
+        "name": "Flamingo Valley",
+        "code": "83249",
+        "latlng": "103.921745946019,1.31786650545135"
+      },
+      {
+        "name": "Bef Carlton Ave",
+        "code": "83229",
+        "latlng": "103.920836451289,1.31661259109603"
+      },
+      {
+        "name": "Bef Frankel Ave",
+        "code": "83219",
+        "latlng": "103.919130564877,1.31587375170027"
+      },
+      {
+        "name": "Aft Bethesda Frankel Ch",
+        "code": "83181",
+        "latlng": "103.917553424816,1.31662343088053"
+      },
+      {
+        "name": "Bef Frankel Dr",
+        "code": "83191",
+        "latlng": "103.91597628595,1.31729916899274"
+      },
+      {
+        "name": "Bef Frankel Terr",
+        "code": "83201",
+        "latlng": "103.914409875866,1.31860774070741"
+      },
+      {
+        "name": "Kembangan Stn",
+        "code": "83321",
+        "latlng": "103.913654337646,1.32168778524292"
+      }
+    ]
+  ]
+}

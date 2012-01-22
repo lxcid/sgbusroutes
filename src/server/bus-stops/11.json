@@ -1,0 +1,77 @@
+{
+  "number": "11",
+  "direction": [
+    [
+      {
+        "name": "Lor 1 Geylang Ter",
+        "code": "80009",
+        "latlng": "103.872196484943,1.31112230792678"
+      },
+      {
+        "name": "Aft Lor 1 Geylang",
+        "code": "80051",
+        "latlng": "103.873259268514,1.31253088514597"
+      },
+      {
+        "name": "Aft Geylang Rd",
+        "code": "80119",
+        "latlng": "103.87599804973,1.30992065473456"
+      },
+      {
+        "name": "Mountbatten Voc Sch",
+        "code": "80149",
+        "latlng": "103.879805833735,1.30749637109364"
+      },
+      {
+        "name": "Opp Kallang Squash Ctr",
+        "code": "80189",
+        "latlng": "103.881076983073,1.30503741200311"
+      },
+      {
+        "name": "Opp CP F",
+        "code": "80179",
+        "latlng": "103.877128703849,1.30059405278845"
+      },
+      {
+        "name": "S'pore Indoor Stadium",
+        "code": "80199",
+        "latlng": "103.875135324797,1.30155838524985"
+      },
+      {
+        "name": "Opp S'pore Indoor Stadium",
+        "code": "80191",
+        "latlng": "103.875764606038,1.30085398823969"
+      },
+      {
+        "name": "CP F",
+        "code": "80171",
+        "latlng": "103.877153532502,1.3008407519493"
+      },
+      {
+        "name": "Kallang Squash Ctr",
+        "code": "80181",
+        "latlng": "103.879698420351,1.30508439498464"
+      },
+      {
+        "name": "Opp Mountbatten Voc Sch",
+        "code": "80141",
+        "latlng": "103.879893732462,1.30711835522226"
+      },
+      {
+        "name": "Bef Geylang Rd",
+        "code": "80111",
+        "latlng": "103.875514999115,1.30987138105146"
+      },
+      {
+        "name": "Aft Sims Way",
+        "code": "80049",
+        "latlng": "103.873636639823,1.31077707819626"
+      },
+      {
+        "name": "Lor 1 Geylang Ter",
+        "code": "80009",
+        "latlng": "103.872196484943,1.31112230792678"
+      }
+    ]
+  ]
+}

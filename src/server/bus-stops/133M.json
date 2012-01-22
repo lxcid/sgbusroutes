@@ -1,0 +1,87 @@
+{
+  "number": "133M",
+  "direction": [
+    [
+      {
+        "name": "Shenton Way Ter",
+        "code": "03239",
+        "latlng": "103.84670669187,1.27290689171042"
+      },
+      {
+        "name": "Bef Shenton Way",
+        "code": "03211",
+        "latlng": "103.846452458558,1.27310767107852"
+      },
+      {
+        "name": "Hub Synergy Pt",
+        "code": "03222",
+        "latlng": "103.844895629224,1.27397836925494"
+      },
+      {
+        "name": "Bef Marina Way",
+        "code": "03531",
+        "latlng": "103.853810201437,1.27829454759049"
+      },
+      {
+        "name": "Marina Bay Sands MICE",
+        "code": "03511",
+        "latlng": "103.858972790274,1.28194708085559"
+      },
+      {
+        "name": "Marina Bay Sands Theatre",
+        "code": "03501",
+        "latlng": "103.86061057793,1.28499944184777"
+      },
+      {
+        "name": "Seating Gallery",
+        "code": "02051",
+        "latlng": "103.858917213117,1.28951669827309"
+      },
+      {
+        "name": "The Esplanade",
+        "code": "02061",
+        "latlng": "103.856496607761,1.28987200772086"
+      },
+      {
+        "name": "Suntec Convention Ctr",
+        "code": "02151",
+        "latlng": "103.85784623004,1.29317776320698"
+      },
+      {
+        "name": "Opp Millenia Twr",
+        "code": "02161",
+        "latlng": "103.860885250322,1.2933927387608"
+      },
+      {
+        "name": "Opp The Ritz-Carlton",
+        "code": "02171",
+        "latlng": "103.86097950226,1.29044333908666"
+      },
+      {
+        "name": "Marina Bay Sands Hotel",
+        "code": "03509",
+        "latlng": "103.860069487345,1.28318589294224"
+      },
+      {
+        "name": "Opp Marina Bay Sands MICE",
+        "code": "03519",
+        "latlng": "103.858849519828,1.28128145951005"
+      },
+      {
+        "name": "Marina Bay Stn",
+        "code": "03311",
+        "latlng": "103.855288121252,1.27525152222583"
+      },
+      {
+        "name": "Opp MAS Bldg",
+        "code": "03218",
+        "latlng": "103.846878096253,1.27411665186177"
+      },
+      {
+        "name": "Aft Shenton Way",
+        "code": "03219",
+        "latlng": "103.847402910634,1.27333343687309"
+      }
+    ]
+  ]
+}

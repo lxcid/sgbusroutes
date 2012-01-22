@@ -1,0 +1,17 @@
+{
+  "number": "902",
+  "direction": [
+    [
+      {
+        "name": "Woodlands Reg Int",
+        "code": "46009",
+        "latlng": "103.784362086948,1.43618016136977"
+      },
+      {
+        "name": "Republic Polytechnic",
+        "code": "46269",
+        "latlng": "103.785828439696,1.44223093678402"
+      }
+    ]
+  ]
+}

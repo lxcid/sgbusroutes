@@ -1,0 +1,32 @@
+{
+  "number": "RWS8",
+  "direction": [
+    [
+      {
+        "name": "Resorts World Sentosa",
+        "code": "14519",
+        "latlng": "103.825703221274,1.25352193438109"
+      },
+      {
+        "name": "VivoCity",
+        "code": "14141",
+        "latlng": "103.822109699271,1.26551350710168"
+      },
+      {
+        "name": "HarbourFront Stn",
+        "code": "14121",
+        "latlng": "103.819324420871,1.26583497802524"
+      },
+      {
+        "name": "Bef Seah Im Rd",
+        "code": "14139",
+        "latlng": "103.815469523808,1.26863527734879"
+      },
+      {
+        "name": "Resorts World Sentosa",
+        "code": "14519",
+        "latlng": "103.825703221274,1.25352193438109"
+      }
+    ]
+  ]
+}
