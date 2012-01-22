@@ -1,0 +1,1289 @@
+[
+  {
+    "type": "Trunk Bus Services",
+    "buses": [
+      {
+        "number": "2",
+        "direction": "2"
+      },
+      {
+        "number": "3",
+        "direction": "2"
+      },
+      {
+        "number": "5",
+        "direction": "2"
+      },
+      {
+        "number": "6",
+        "direction": "1"
+      },
+      {
+        "number": "7",
+        "direction": "2"
+      },
+      {
+        "number": "8",
+        "direction": "2"
+      },
+      {
+        "number": "9",
+        "direction": "1"
+      },
+      {
+        "number": "10",
+        "direction": "2"
+      },
+      {
+        "number": "10e",
+        "direction": "2"
+      },
+      {
+        "number": "11",
+        "direction": "1"
+      },
+      {
+        "number": "12",
+        "direction": "2"
+      },
+      {
+        "number": "13",
+        "direction": "2"
+      },
+      {
+        "number": "14",
+        "direction": "2"
+      },
+      {
+        "number": "14e",
+        "direction": "2"
+      },
+      {
+        "number": "15",
+        "direction": "1"
+      },
+      {
+        "number": "16",
+        "direction": "2"
+      },
+      {
+        "number": "17",
+        "direction": "1"
+      },
+      {
+        "number": "18",
+        "direction": "1"
+      },
+      {
+        "number": "19",
+        "direction": "1"
+      },
+      {
+        "number": "21",
+        "direction": "2"
+      },
+      {
+        "number": "22",
+        "direction": "2"
+      },
+      {
+        "number": "23",
+        "direction": "1"
+      },
+      {
+        "number": "24",
+        "direction": "2"
+      },
+      {
+        "number": "25",
+        "direction": "2"
+      },
+      {
+        "number": "26",
+        "direction": "2"
+      },
+      {
+        "number": "27",
+        "direction": "2"
+      },
+      {
+        "number": "28",
+        "direction": "2"
+      },
+      {
+        "number": "29",
+        "direction": "1"
+      },
+      {
+        "number": "30",
+        "direction": "2"
+      },
+      {
+        "number": "30e",
+        "direction": "2"
+      },
+      {
+        "number": "31",
+        "direction": "2"
+      },
+      {
+        "number": "32",
+        "direction": "2"
+      },
+      {
+        "number": "33",
+        "direction": "2"
+      },
+      {
+        "number": "34",
+        "direction": "2"
+      },
+      {
+        "number": "35",
+        "direction": "1"
+      },
+      {
+        "number": "36",
+        "direction": "1"
+      },
+      {
+        "number": "37",
+        "direction": "1"
+      },
+      {
+        "number": "38",
+        "direction": "2"
+      },
+      {
+        "number": "39",
+        "direction": "2"
+      },
+      {
+        "number": "40",
+        "direction": "1"
+      },
+      {
+        "number": "42",
+        "direction": "1"
+      },
+      {
+        "number": "43",
+        "direction": "2"
+      },
+      {
+        "number": "45",
+        "direction": "2"
+      },
+      {
+        "number": "48",
+        "direction": "2"
+      },
+      {
+        "number": "51",
+        "direction": "2"
+      },
+      {
+        "number": "52",
+        "direction": "2"
+      },
+      {
+        "number": "53",
+        "direction": "2"
+      },
+      {
+        "number": "54",
+        "direction": "2"
+      },
+      {
+        "number": "55",
+        "direction": "1"
+      },
+      {
+        "number": "56",
+        "direction": "2"
+      },
+      {
+        "number": "57",
+        "direction": "2"
+      },
+      {
+        "number": "58",
+        "direction": "2"
+      },
+      {
+        "number": "59",
+        "direction": "2"
+      },
+      {
+        "number": "60",
+        "direction": "1"
+      },
+      {
+        "number": "61",
+        "direction": "2"
+      },
+      {
+        "number": "62",
+        "direction": "1"
+      },
+      {
+        "number": "63",
+        "direction": "1"
+      },
+      {
+        "number": "64",
+        "direction": "1"
+      },
+      {
+        "number": "65",
+        "direction": "2"
+      },
+      {
+        "number": "66",
+        "direction": "2"
+      },
+      {
+        "number": "67",
+        "direction": "2"
+      },
+      {
+        "number": "69",
+        "direction": "1"
+      },
+      {
+        "number": "70",
+        "direction": "2"
+      },
+      {
+        "number": "70M",
+        "direction": "1"
+      },
+      {
+        "number": "72",
+        "direction": "2"
+      },
+      {
+        "number": "73",
+        "direction": "1"
+      },
+      {
+        "number": "74",
+        "direction": "2"
+      },
+      {
+        "number": "74e",
+        "direction": "2"
+      },
+      {
+        "number": "75",
+        "direction": "2"
+      },
+      {
+        "number": "76",
+        "direction": "1"
+      },
+      {
+        "number": "77",
+        "direction": "2"
+      },
+      {
+        "number": "78",
+        "direction": "1"
+      },
+      {
+        "number": "79",
+        "direction": "1"
+      },
+      {
+        "number": "80",
+        "direction": "2"
+      },
+      {
+        "number": "81",
+        "direction": "2"
+      },
+      {
+        "number": "82",
+        "direction": "1"
+      },
+      {
+        "number": "83",
+        "direction": "1"
+      },
+      {
+        "number": "84",
+        "direction": "1"
+      },
+      {
+        "number": "85",
+        "direction": "2"
+      },
+      {
+        "number": "85X",
+        "direction": "1"
+      },
+      {
+        "number": "86",
+        "direction": "2"
+      },
+      {
+        "number": "87",
+        "direction": "2"
+      },
+      {
+        "number": "88",
+        "direction": "2"
+      },
+      {
+        "number": "89",
+        "direction": "1"
+      },
+      {
+        "number": "89e",
+        "direction": "2"
+      },
+      {
+        "number": "90",
+        "direction": "1"
+      },
+      {
+        "number": "91",
+        "direction": "1"
+      },
+      {
+        "number": "92",
+        "direction": "1"
+      },
+      {
+        "number": "93",
+        "direction": "2"
+      },
+      {
+        "number": "94",
+        "direction": "1"
+      },
+      {
+        "number": "95",
+        "direction": "1"
+      },
+      {
+        "number": "96",
+        "direction": "1"
+      },
+      {
+        "number": "97",
+        "direction": "2"
+      },
+      {
+        "number": "97e",
+        "direction": "2"
+      },
+      {
+        "number": "98",
+        "direction": "1"
+      },
+      {
+        "number": "98M",
+        "direction": "1"
+      },
+      {
+        "number": "99",
+        "direction": "1"
+      },
+      {
+        "number": "100",
+        "direction": "2"
+      },
+      {
+        "number": "101",
+        "direction": "1"
+      },
+      {
+        "number": "103",
+        "direction": "1"
+      },
+      {
+        "number": "105",
+        "direction": "2"
+      },
+      {
+        "number": "106",
+        "direction": "2"
+      },
+      {
+        "number": "107",
+        "direction": "2"
+      },
+      {
+        "number": "107M",
+        "direction": "1"
+      },
+      {
+        "number": "109",
+        "direction": "2"
+      },
+      {
+        "number": "111",
+        "direction": "1"
+      },
+      {
+        "number": "112",
+        "direction": "1"
+      },
+      {
+        "number": "113",
+        "direction": "1"
+      },
+      {
+        "number": "115",
+        "direction": "1"
+      },
+      {
+        "number": "119",
+        "direction": "1"
+      },
+      {
+        "number": "123",
+        "direction": "1"
+      },
+      {
+        "number": "123M",
+        "direction": "1"
+      },
+      {
+        "number": "124",
+        "direction": "1"
+      },
+      {
+        "number": "125",
+        "direction": "1"
+      },
+      {
+        "number": "128",
+        "direction": "2"
+      },
+      {
+        "number": "130",
+        "direction": "2"
+      },
+      {
+        "number": "131",
+        "direction": "2"
+      },
+      {
+        "number": "132",
+        "direction": "2"
+      },
+      {
+        "number": "133",
+        "direction": "2"
+      },
+      {
+        "number": "133M",
+        "direction": "1"
+      },
+      {
+        "number": "135",
+        "direction": "1"
+      },
+      {
+        "number": "136",
+        "direction": "2"
+      },
+      {
+        "number": "138",
+        "direction": "1"
+      },
+      {
+        "number": "139",
+        "direction": "2"
+      },
+      {
+        "number": "142",
+        "direction": "1"
+      },
+      {
+        "number": "143",
+        "direction": "2"
+      },
+      {
+        "number": "145",
+        "direction": "2"
+      },
+      {
+        "number": "147",
+        "direction": "2"
+      },
+      {
+        "number": "151",
+        "direction": "2"
+      },
+      {
+        "number": "151e",
+        "direction": "2"
+      },
+      {
+        "number": "153",
+        "direction": "2"
+      },
+      {
+        "number": "154",
+        "direction": "2"
+      },
+      {
+        "number": "155",
+        "direction": "1"
+      },
+      {
+        "number": "156",
+        "direction": "2"
+      },
+      {
+        "number": "157",
+        "direction": "2"
+      },
+      {
+        "number": "158",
+        "direction": "1"
+      },
+      {
+        "number": "159",
+        "direction": "2"
+      },
+      {
+        "number": "160",
+        "direction": "2"
+      },
+      {
+        "number": "161",
+        "direction": "2"
+      },
+      {
+        "number": "162",
+        "direction": "2"
+      },
+      {
+        "number": "162M",
+        "direction": "1"
+      },
+      {
+        "number": "163",
+        "direction": "2"
+      },
+      {
+        "number": "163M",
+        "direction": "1"
+      },
+      {
+        "number": "165",
+        "direction": "2"
+      },
+      {
+        "number": "166",
+        "direction": "2"
+      },
+      {
+        "number": "167",
+        "direction": "2"
+      },
+      {
+        "number": "168",
+        "direction": "2"
+      },
+      {
+        "number": "169",
+        "direction": "2"
+      },
+      {
+        "number": "170",
+        "direction": "2"
+      },
+      {
+        "number": "170X",
+        "direction": "2"
+      },
+      {
+        "number": "171",
+        "direction": "2"
+      },
+      {
+        "number": "172",
+        "direction": "2"
+      },
+      {
+        "number": "173",
+        "direction": "1"
+      },
+      {
+        "number": "174",
+        "direction": "2"
+      },
+      {
+        "number": "174e",
+        "direction": "2"
+      },
+      {
+        "number": "175",
+        "direction": "2"
+      },
+      {
+        "number": "176",
+        "direction": "2"
+      },
+      {
+        "number": "177",
+        "direction": "2"
+      },
+      {
+        "number": "178",
+        "direction": "2"
+      },
+      {
+        "number": "179",
+        "direction": "1"
+      },
+      {
+        "number": "180",
+        "direction": "2"
+      },
+      {
+        "number": "181",
+        "direction": "1"
+      },
+      {
+        "number": "182",
+        "direction": "1"
+      },
+      {
+        "number": "182M",
+        "direction": "1"
+      },
+      {
+        "number": "183",
+        "direction": "1"
+      },
+      {
+        "number": "184",
+        "direction": "1"
+      },
+      {
+        "number": "185",
+        "direction": "2"
+      },
+      {
+        "number": "186",
+        "direction": "2"
+      },
+      {
+        "number": "187",
+        "direction": "2"
+      },
+      {
+        "number": "188",
+        "direction": "2"
+      },
+      {
+        "number": "188E",
+        "direction": "1"
+      },
+      {
+        "number": "188R",
+        "direction": "2"
+      },
+      {
+        "number": "189",
+        "direction": "1"
+      },
+      {
+        "number": "190",
+        "direction": "2"
+      },
+      {
+        "number": "191",
+        "direction": "1"
+      },
+      {
+        "number": "192",
+        "direction": "2"
+      },
+      {
+        "number": "193",
+        "direction": "2"
+      },
+      {
+        "number": "194",
+        "direction": "1"
+      },
+      {
+        "number": "195",
+        "direction": "1"
+      },
+      {
+        "number": "196",
+        "direction": "2"
+      },
+      {
+        "number": "196e",
+        "direction": "2"
+      },
+      {
+        "number": "197",
+        "direction": "2"
+      },
+      {
+        "number": "198",
+        "direction": "2"
+      },
+      {
+        "number": "199",
+        "direction": "1"
+      },
+      {
+        "number": "200",
+        "direction": "1"
+      },
+      {
+        "number": "246",
+        "direction": "1"
+      },
+      {
+        "number": "249",
+        "direction": "1"
+      },
+      {
+        "number": "251",
+        "direction": "1"
+      },
+      {
+        "number": "252",
+        "direction": "1"
+      },
+      {
+        "number": "254",
+        "direction": "1"
+      },
+      {
+        "number": "255",
+        "direction": "1"
+      },
+      {
+        "number": "257",
+        "direction": "1"
+      },
+      {
+        "number": "400",
+        "direction": "1"
+      },
+      {
+        "number": "401",
+        "direction": "1"
+      },
+      {
+        "number": "402",
+        "direction": "1"
+      },
+      {
+        "number": "403",
+        "direction": "1"
+      },
+      {
+        "number": "405",
+        "direction": "1"
+      },
+      {
+        "number": "408",
+        "direction": "1"
+      },
+      {
+        "number": "409",
+        "direction": "1"
+      },
+      {
+        "number": "502",
+        "direction": "1"
+      },
+      {
+        "number": "502A",
+        "direction": "1"
+      },
+      {
+        "number": "506",
+        "direction": "2"
+      },
+      {
+        "number": "518",
+        "direction": "1"
+      },
+      {
+        "number": "518A",
+        "direction": "1"
+      },
+      {
+        "number": "700",
+        "direction": "2"
+      },
+      {
+        "number": "700A",
+        "direction": "1"
+      },
+      {
+        "number": "825",
+        "direction": "1"
+      },
+      {
+        "number": "851",
+        "direction": "2"
+      },
+      {
+        "number": "852",
+        "direction": "2"
+      },
+      {
+        "number": "853",
+        "direction": "2"
+      },
+      {
+        "number": "853C",
+        "direction": "2"
+      },
+      {
+        "number": "854",
+        "direction": "2"
+      },
+      {
+        "number": "854E",
+        "direction": "1"
+      },
+      {
+        "number": "855",
+        "direction": "2"
+      },
+      {
+        "number": "856",
+        "direction": "2"
+      },
+      {
+        "number": "857",
+        "direction": "1"
+      },
+      {
+        "number": "858",
+        "direction": "1"
+      },
+      {
+        "number": "859",
+        "direction": "2"
+      },
+      {
+        "number": "868",
+        "direction": "1"
+      },
+      {
+        "number": "882",
+        "direction": "1"
+      },
+      {
+        "number": "925",
+        "direction": "2"
+      },
+      {
+        "number": "925C",
+        "direction": "1"
+      },
+      {
+        "number": "926",
+        "direction": "1"
+      },
+      {
+        "number": "927",
+        "direction": "1"
+      },
+      {
+        "number": "950",
+        "direction": "2"
+      },
+      {
+        "number": "960",
+        "direction": "2"
+      },
+      {
+        "number": "961",
+        "direction": "2"
+      },
+      {
+        "number": "961C",
+        "direction": "2"
+      },
+      {
+        "number": "962",
+        "direction": "1"
+      },
+      {
+        "number": "963",
+        "direction": "2"
+      },
+      {
+        "number": "963E",
+        "direction": "2"
+      },
+      {
+        "number": "963R",
+        "direction": "2"
+      },
+      {
+        "number": "964",
+        "direction": "1"
+      },
+      {
+        "number": "965",
+        "direction": "1"
+      },
+      {
+        "number": "966",
+        "direction": "1"
+      },
+      {
+        "number": "969",
+        "direction": "2"
+      },
+      {
+        "number": "970",
+        "direction": "2"
+      },
+      {
+        "number": "971E",
+        "direction": "2"
+      },
+      {
+        "number": "975",
+        "direction": "1"
+      },
+      {
+        "number": "980",
+        "direction": "2"
+      },
+      {
+        "number": "981",
+        "direction": "2"
+      },
+      {
+        "number": "985",
+        "direction": "2"
+      },
+      {
+        "number": "BPS1",
+        "direction": "1"
+      },
+      {
+        "number": "CT8",
+        "direction": "2"
+      },
+      {
+        "number": "CT18",
+        "direction": "2"
+      },
+      {
+        "number": "CT28",
+        "direction": "1"
+      },
+      {
+        "number": "RWS8",
+        "direction": "1"
+      }
+    ]
+  },
+  {
+    "type": "Feeder Bus Services",
+    "buses": [
+      {
+        "number": "222",
+        "direction": "1"
+      },
+      {
+        "number": "225",
+        "direction": "2"
+      },
+      {
+        "number": "228",
+        "direction": "1"
+      },
+      {
+        "number": "229",
+        "direction": "1"
+      },
+      {
+        "number": "231",
+        "direction": "2"
+      },
+      {
+        "number": "232",
+        "direction": "1"
+      },
+      {
+        "number": "235",
+        "direction": "1"
+      },
+      {
+        "number": "238",
+        "direction": "1"
+      },
+      {
+        "number": "240",
+        "direction": "1"
+      },
+      {
+        "number": "241",
+        "direction": "1"
+      },
+      {
+        "number": "242",
+        "direction": "1"
+      },
+      {
+        "number": "243",
+        "direction": "2"
+      },
+      {
+        "number": "261",
+        "direction": "1"
+      },
+      {
+        "number": "262",
+        "direction": "1"
+      },
+      {
+        "number": "265",
+        "direction": "1"
+      },
+      {
+        "number": "268",
+        "direction": "1"
+      },
+      {
+        "number": "269",
+        "direction": "1"
+      },
+      {
+        "number": "272",
+        "direction": "1"
+      },
+      {
+        "number": "273",
+        "direction": "1"
+      },
+      {
+        "number": "275",
+        "direction": "1"
+      },
+      {
+        "number": "282",
+        "direction": "1"
+      },
+      {
+        "number": "284",
+        "direction": "1"
+      },
+      {
+        "number": "285",
+        "direction": "1"
+      },
+      {
+        "number": "291",
+        "direction": "1"
+      },
+      {
+        "number": "292",
+        "direction": "1"
+      },
+      {
+        "number": "293",
+        "direction": "1"
+      },
+      {
+        "number": "300",
+        "direction": "1"
+      },
+      {
+        "number": "302",
+        "direction": "1"
+      },
+      {
+        "number": "307",
+        "direction": "1"
+      },
+      {
+        "number": "315",
+        "direction": "1"
+      },
+      {
+        "number": "317",
+        "direction": "1"
+      },
+      {
+        "number": "325",
+        "direction": "1"
+      },
+      {
+        "number": "333",
+        "direction": "1"
+      },
+      {
+        "number": "334",
+        "direction": "1"
+      },
+      {
+        "number": "335",
+        "direction": "1"
+      },
+      {
+        "number": "354",
+        "direction": "1"
+      },
+      {
+        "number": "358",
+        "direction": "1"
+      },
+      {
+        "number": "359",
+        "direction": "1"
+      },
+      {
+        "number": "372",
+        "direction": "1"
+      },
+      {
+        "number": "410",
+        "direction": "2"
+      },
+      {
+        "number": "800",
+        "direction": "1"
+      },
+      {
+        "number": "804",
+        "direction": "1"
+      },
+      {
+        "number": "806",
+        "direction": "1"
+      },
+      {
+        "number": "811",
+        "direction": "1"
+      },
+      {
+        "number": "812",
+        "direction": "1"
+      },
+      {
+        "number": "900",
+        "direction": "1"
+      },
+      {
+        "number": "900A",
+        "direction": "1"
+      },
+      {
+        "number": "901",
+        "direction": "1"
+      },
+      {
+        "number": "902",
+        "direction": "1"
+      },
+      {
+        "number": "903",
+        "direction": "1"
+      },
+      {
+        "number": "911",
+        "direction": "1"
+      },
+      {
+        "number": "912",
+        "direction": "1"
+      },
+      {
+        "number": "913",
+        "direction": "1"
+      },
+      {
+        "number": "920",
+        "direction": "1"
+      },
+      {
+        "number": "922",
+        "direction": "1"
+      },
+      {
+        "number": "941",
+        "direction": "1"
+      },
+      {
+        "number": "945",
+        "direction": "1"
+      },
+      {
+        "number": "947",
+        "direction": "1"
+      }
+    ]
+  },
+  {
+    "type": "Nite Bus Services",
+    "buses": [
+      {
+        "number": "1N",
+        "direction": "1"
+      },
+      {
+        "number": "2N",
+        "direction": "1"
+      },
+      {
+        "number": "3N",
+        "direction": "1"
+      },
+      {
+        "number": "4N",
+        "direction": "1"
+      },
+      {
+        "number": "5N",
+        "direction": "1"
+      },
+      {
+        "number": "6N",
+        "direction": "1"
+      },
+      {
+        "number": "NR1",
+        "direction": "1"
+      },
+      {
+        "number": "NR2",
+        "direction": "1"
+      },
+      {
+        "number": "NR3",
+        "direction": "1"
+      },
+      {
+        "number": "NR5",
+        "direction": "1"
+      },
+      {
+        "number": "NR6",
+        "direction": "1"
+      },
+      {
+        "number": "NR7",
+        "direction": "1"
+      },
+      {
+        "number": "NR8",
+        "direction": "1"
+      }
+    ]
+  }
+]
