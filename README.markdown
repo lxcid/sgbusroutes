@@ -1,3 +1,6 @@
+![Status: Inactive](https://img.shields.io/badge/status-inactive-red.svg)
+![Maintained?: No](https://img.shields.io/badge/maintained%3F-no-red.svg)
+
 # SG Bus Routes #
 
 First and for most, this solution is referenced heavily from [Cheeaun's effort on SBRE](https://github.com/cheeaun/busrouter-sg).
